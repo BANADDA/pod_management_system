@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+docker
+python-jose[cryptography]
+passlib[bcrypt]
+apscheduler
+sqlalchemy
+databases
+alembic
+python-dotenv
+aiosqlite
