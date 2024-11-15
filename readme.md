@@ -20,7 +20,7 @@ A FastAPI-based pod management system with Docker container orchestration. This 
 
 1. Clone the Repository:
 ```bash
-git clone https://github.com/yourusername/pod_management_system.git
+git clone https://github.com/BANADDA/pod_management_system.git
 cd pod_management_system
 ```
 
